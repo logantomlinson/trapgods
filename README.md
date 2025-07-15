@@ -1,0 +1,2 @@
+# trapgods
+new game
